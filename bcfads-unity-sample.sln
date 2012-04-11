@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{511B2625-7282-C939-D605-2D3621F3AA6A}") = "bcfads-unity-sample", "Assembly-CSharp-firstpass.csproj", "{1ED59B7E-6D0A-43B5-B16E-B0A93A586A9D}"
+EndProject
+Project("{511B2625-7282-C939-D605-2D3621F3AA6A}") = "bcfads-unity-sample", "Assembly-CSharp.csproj", "{8B452EE9-078E-8897-D00D-6AD917604726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED59B7E-6D0A-43B5-B16E-B0A93A586A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED59B7E-6D0A-43B5-B16E-B0A93A586A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED59B7E-6D0A-43B5-B16E-B0A93A586A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED59B7E-6D0A-43B5-B16E-B0A93A586A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B452EE9-078E-8897-D00D-6AD917604726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B452EE9-078E-8897-D00D-6AD917604726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B452EE9-078E-8897-D00D-6AD917604726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B452EE9-078E-8897-D00D-6AD917604726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
